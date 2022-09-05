@@ -10,14 +10,14 @@ const Home = () => {
           <Column className="bg-gradient">
             <Column className="items-center justify-center h-screen">
               <Img
-                src="images/img_rectangle1.png"
+                src="https://avatars.githubusercontent.com/u/79223936?v=4"
                 className="rounded-radius49 w-[300px]"
                 alt="RectangleOne"
               />
               <Text className="font-hairline text-[53px] text-white_A700 w-[auto]">
                 Legumii
               </Text>
-              <Column className="items-center ">
+              <Column className="items-center">
                 <Text className="font-hairline text-[37px] text-white_A700 w-[auto]">
                   Github
                 </Text>
@@ -31,7 +31,7 @@ const Home = () => {
             </Column>
           </Column>
         </aside>
-        <Column className="bg-white_A700 ml-[15px] w-[70%] h-screen md:hidden">
+        <Column className="bg-white_A700 ml-[15px] w-[70%] h-screen flex md:hidden">
           <Text className="font-hairline text-[53px] text-black_900 w-[auto]">
             Projetos
           </Text>
@@ -82,7 +82,7 @@ const Home = () => {
             </Text>
             <Img
               src="images/img_rectangle4.png"
-              className="3xl:h-[107px] lg:h-[69px] xl:h-[79px] 2xl:h-[89px] xl:mt-[11px] 2xl:mt-[12px] 3xl:mt-[14px] lg:mt-[9px] rounded-radius25 3xl:w-[106px] lg:w-[68px] xl:w-[78px] 2xl:w-[88px]"
+              className="mt-[14px] rounded-radius25 w-[106px]"
               alt="RectangleFour"
             />
           </Column>
