@@ -31,7 +31,7 @@ const Home = () => {
             </Column>
           </Column>
         </aside>
-        <Column className="bg-white_A700 ml-[15px] w-[70%] md:hidden">
+        <Column className="bg-white_A700 ml-[15px] w-[70%] lg:hidden">
           <Text className="font-hairline text-[53px] text-black_900 w-[auto]">
             Projetos
           </Text>
