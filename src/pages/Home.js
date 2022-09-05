@@ -82,7 +82,7 @@ const Home = () => {
             </Text>
             <Img
               src="images/img_rectangle4.png"
-              className="mt-[14px] rounded-radius25 w-[106px]"
+              className="mt-[9px] rounded-radius25 w-[96px]"
               alt="RectangleFour"
             />
           </Column>
