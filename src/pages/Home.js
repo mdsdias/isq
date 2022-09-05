@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <>
       <Row className="bg-white_A700 font-roboto items-center h-[100%]">
-        <aside className="items-center w-[30%] h-[100%]">
+        <aside className="items-center w-[30%] h-[100%] md:w-full">
           <Column className="bg-gradient">
             <Column className="items-center justify-center h-screen">
               <Img
